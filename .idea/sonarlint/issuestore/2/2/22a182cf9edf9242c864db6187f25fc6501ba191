@@ -1,0 +1,7 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "intent".(å¯Ô«
+A
+java:S1481"+Remove this unused "intent" local variable.(å¯Ô«
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÆ–¤ýÿÿÿÿ8Ú‰ÖøÁ0
+]	java:S125!"<This block of commented-out lines of code should be removed.(¶Š™Ûýÿÿÿÿ8â‰ÖøÁ0

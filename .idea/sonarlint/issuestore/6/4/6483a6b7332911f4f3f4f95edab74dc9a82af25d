@@ -1,0 +1,7 @@
+
+k
+java:S1192H"IDefine a constant instead of duplicating this literal "employer" 3 times.(ÃÀ”Ùÿÿÿÿÿ8ëì–úÍ0
+~
+java:S1450'"\Remove the "employerCheck" field and declare it as a local variable in the relevant methods.(ö¯ú¬ÿÿÿÿÿ8¨í–úÍ0
+S
+java:S1068'"1Remove this unused "employerCheck" private field.(ö¯ú¬ÿÿÿÿÿ8Æí–úÍ0

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconDuplicates">
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
+    </issue>
+    <issue id="IconLocation">
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/drawable/accountant_category.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/drawable/driver_category.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/drawable/engineer_category.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/drawable/manager_category.png" />
+        <ignore path="C:/Users/basim/AndroidStudioProjects/G15/app/src/main/res/drawable/restaurant_category.png" />
+    </issue>
+</lint>

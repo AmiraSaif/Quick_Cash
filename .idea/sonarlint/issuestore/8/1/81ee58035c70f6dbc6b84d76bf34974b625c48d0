@@ -1,0 +1,26 @@
+
+K
+java:S1604¼"(Make this anonymous inner class a lambda(Ÿ—ÙÎÿÿÿÿÿ8³Ó£ùÁ0
+F
+java:S1604³"(Make this anonymous inner class a lambda(³Ö×•8³Ó£ùÁ0
+f
+java:S1301S"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ
+6
+java:S1700*"Rename field "registerUser"(¤ôˆ«ùÿÿÿÿ
+\
+java:S1659'"FDeclare "editEmail" and all following declarations on a separate line.(ñªäœ
+f
+java:S1659*"KDeclare "employerButton" and all following declarations on a separate line.(¤ôˆ«ùÿÿÿÿ
+p
+java:S1450&"URemove the "banner" field and declare it as a local variable in the relevant methods.(Í ôÉûÿÿÿÿ
+/
+java:S2178O"Correct this "|" to "||".(Â¸²¸
+<	java:S131S""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+<	java:S131`""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+o	java:S100l"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÆ–¤ýÿÿÿÿ8¢Õ£ùÁ0
+m
+java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¾Ë«ûúÿÿÿÿ
+H
+java:S1481¬"1Remove this unused "employeeTick" local variable.(ˆ¶äÛ
+H
+java:S1481­"1Remove this unused "employerTick" local variable.(Ã²æî
